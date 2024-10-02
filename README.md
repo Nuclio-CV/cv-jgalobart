@@ -1,4 +1,4 @@
-# Formación profesional
+# 🤹 Formación profesional
 
 Llevo 24 años dedicado al **desarrollo de webs y aplicaciones** en diferentes empresas y más de 12 años formando a futuros programadores.
 
@@ -12,6 +12,9 @@ Responsabilidades:
 1. Harina
 1. Azucar
 1. Sal
+
+> El sol sale por el Este. 
+> Winston Churchil
 
 ## Google
 2012-2014
