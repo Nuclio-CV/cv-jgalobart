@@ -7,3 +7,11 @@
 body {
   font-family: "Roboto Slab"
 }
+
+
+.roboto-slab-<uniquifier> {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
