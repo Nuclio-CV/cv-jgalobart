@@ -2,7 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Playwrite+CL:wght@100..400&family=Roboto+Slab:wght@100..900&family=Varela+Round&display=swap');
 
 body {
-  background-color: blue;
+  font-family: "Roboto Slab"
 }
